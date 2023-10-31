@@ -19,12 +19,12 @@ const ProductItem = ({ product }) => {
   }, [product.src]);
 
   useEffect(() => {
-    if (hoveredImageIndex === 2) { // Reset to the first image after the 3rd image is hovered (assuming 0-based index)
+    if (hoveredImageIndex === 2) {
       setHoveredImageIndex(0);
     }
   }, [hoveredImageIndex]);
 
-  
+
   return (
     <motion.div
       className="bg-white shadow-lg rounded-lg overflow-hidden"
@@ -49,32 +49,8 @@ const ProductItem = ({ product }) => {
 
 
 const ProductList = () => {
-  // const [visibleProducts, setVisibleProducts] = useState(4);
+
   const productsContainerRef = useRef(null);
-
-  // useEffect(() => {
-  //   const observer = new IntersectionObserver(
-  //     (entries) => {
-  //       entries.forEach((entry) => {
-  //         if (entry.isIntersecting) {
-  //           setVisibleProducts((prevCount) => prevCount + 4); 
-  //         }
-  //       });
-  //     },
-  //     {
-  //       threshold: 0.1,
-  //     }
-  //   );
-
-    // if (productsContainerRef.current) {
-    //   observer.observe(productsContainerRef.current);
-    // }
-
-  //   return () => {
-  //     observer.disconnect();
-  //   };
-  // }, []);
-
   const Product = productsData?.Products?.slice(0);
 
   return (
