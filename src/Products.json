@@ -1,94 +1,95 @@
+
 {
   "Products": [
     {
       "id": 1,
       "name": "Product 1",
       "price": 29.99,
-      "src": "./assets/a1.jpg"
+      "src": "/assets/products/pro1_img1.jpg"
     },
     {
       "id": 2,
       "name": "Product 2",
       "price": 39.99,
-      "src": "./assets/b2.jpg"
+      "src": "/assets/products/pro2_img1.jpg"
     },
     {
       "id": 3,
       "name": "Product 3",
       "price": 49.99,
-      "src": "./assets/c3.jpg"
+      "src": "/assets/products/pro3_img1.jpg"
     },
     {
       "id": 1,
       "name": "Product 1",
       "price": 29.99,
-      "src": "./assets/a1.jpg"
+      "src": "/assets/products/pro1_img1.jpg"
     },
     {
       "id": 2,
       "name": "Product 2",
       "price": 39.99,
-      "src": "./assets/b2.jpg"
+      "src": "/assets/products/pro2_img1.jpg"
     },
     {
       "id": 3,
       "name": "Product 3",
       "price": 49.99,
-      "src": "./assets/c3.jpg"
+      "src": "/assets/products/pro3_img1.jpg"
     },
     {
       "id": 1,
       "name": "Product 1",
       "price": 29.99,
-      "src": "./assets/a1.jpg"
+      "src": "/assets/products/pro1_img1.jpg"
     },
     {
       "id": 2,
       "name": "Product 2",
       "price": 39.99,
-      "src": "./assets/b2.jpg"
+      "src": "/assets/products/pro2_img1.jpg"
     },
     {
       "id": 3,
       "name": "Product 3",
       "price": 49.99,
-      "src": "./assets/c3.jpg"
+      "src": "/assets/products/pro3_img1.jpg"
     },
     {
       "id": 1,
       "name": "Product 1",
       "price": 29.99,
-      "src": "./assets/a1.jpg"
+      "src": "/assets/products/pro1_img1.jpg"
     },
     {
       "id": 2,
       "name": "Product 2",
       "price": 39.99,
-      "src": "./assets/b2.jpg"
+      "src": "/assets/products/pro2_img1.jpg"
     },
     {
       "id": 3,
       "name": "Product 3",
       "price": 49.99,
-      "src": "./assets/c3.jpg"
+      "src": "/assets/products/pro3_img1.jpg"
     },
     {
       "id": 1,
       "name": "Product 1",
       "price": 29.99,
-      "src": "./assets/a1.jpg"
+      "src": "/assets/products/pro1_img1.jpg"
     },
     {
       "id": 2,
       "name": "Product 2",
       "price": 39.99,
-      "src": "./assets/b2.jpg"
+      "src": "/assets/products/pro2_img1.jpg"
     },
     {
       "id": 3,
       "name": "Product 3",
       "price": 49.99,
-      "src": "./assets/c3.jpg"
+      "src": "/assets/products/pro3_img1.jpg"
     }
     
   ]
