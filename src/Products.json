@@ -4,94 +4,99 @@
     {
       "id": 1,
       "name": "Product 1",
-      "price": 29.99,
-      "src": "/assets/products/pro1_img1.jpg"
+      "price": 349.00,
+      "src": ["/assets/products/pro1_img1.jpg", "/assets/products/pro1_img2.jpg", "/assets/products/pro1_img3"]
     },
     {
       "id": 2,
       "name": "Product 2",
-      "price": 39.99,
-      "src": "/assets/products/pro2_img1.jpg"
+      "price": 599.00,
+      "src": ["/assets/products/pro2_img1.jpg", "/assets/products/pro2_img2.jpg", "/assets/products/pro2_img3"]
     },
     {
       "id": 3,
       "name": "Product 3",
-      "price": 49.99,
-      "src": "/assets/products/pro3_img1.jpg"
+      "price": 899.00,
+      "src": ["/assets/products/pro3_img1.jpg", "/assets/products/pro3_img2.jpg", "/assets/products/pro3_img3"]
     },
     {
       "id": 1,
       "name": "Product 1",
-      "price": 29.99,
-      "src": "/assets/products/pro1_img1.jpg"
+      "price": 349.00,
+      "src": ["/assets/products/pro1_img1.jpg", "/assets/products/pro1_img2.jpg", "/assets/products/pro1_img3"]
     },
     {
       "id": 2,
       "name": "Product 2",
-      "price": 39.99,
-      "src": "/assets/products/pro2_img1.jpg"
+      "price": 599.00,
+      "src": ["/assets/products/pro2_img1.jpg", "/assets/products/pro2_img2.jpg", "/assets/products/pro2_img3"]
     },
     {
       "id": 3,
       "name": "Product 3",
-      "price": 49.99,
-      "src": "/assets/products/pro3_img1.jpg"
+      "price": 899.00,
+      "src": ["/assets/products/pro3_img1.jpg", "/assets/products/pro3_img2.jpg", "/assets/products/pro3_img3"]
     },
     {
       "id": 1,
       "name": "Product 1",
-      "price": 29.99,
-      "src": "/assets/products/pro1_img1.jpg"
+      "price": 349.00,
+      "src": ["/assets/products/pro1_img1.jpg", "/assets/products/pro1_img2.jpg", "/assets/products/pro1_img3"]
     },
     {
       "id": 2,
       "name": "Product 2",
-      "price": 39.99,
-      "src": "/assets/products/pro2_img1.jpg"
+      "price": 599.00,
+      "src": ["/assets/products/pro2_img1.jpg", "/assets/products/pro2_img2.jpg", "/assets/products/pro2_img3"]
     },
     {
       "id": 3,
       "name": "Product 3",
-      "price": 49.99,
-      "src": "/assets/products/pro3_img1.jpg"
+      "price": 899.00,
+      "src": ["/assets/products/pro3_img1.jpg", "/assets/products/pro3_img2.jpg", "/assets/products/pro3_img3"]
     },
     {
       "id": 1,
       "name": "Product 1",
-      "price": 29.99,
-      "src": "/assets/products/pro1_img1.jpg"
+      "price": 349.00,
+      "src": ["/assets/products/pro1_img1.jpg", "/assets/products/pro1_img2.jpg", "/assets/products/pro1_img3"]
     },
     {
       "id": 2,
       "name": "Product 2",
-      "price": 39.99,
-      "src": "/assets/products/pro2_img1.jpg"
+      "price": 599.00,
+      "src": ["/assets/products/pro2_img1.jpg", "/assets/products/pro2_img2.jpg", "/assets/products/pro2_img3"]
     },
     {
       "id": 3,
       "name": "Product 3",
-      "price": 49.99,
-      "src": "/assets/products/pro3_img1.jpg"
+      "price": 899.00,
+      "src": ["/assets/products/pro3_img1.jpg", "/assets/products/pro3_img2.jpg", "/assets/products/pro3_img3"]
     },
     {
       "id": 1,
       "name": "Product 1",
-      "price": 29.99,
-      "src": "/assets/products/pro1_img1.jpg"
+      "price": 349.00,
+      "src": ["/assets/products/pro1_img1.jpg", "/assets/products/pro1_img2.jpg", "/assets/products/pro1_img3"]
     },
     {
       "id": 2,
       "name": "Product 2",
-      "price": 39.99,
-      "src": "/assets/products/pro2_img1.jpg"
+      "price": 599.00,
+      "src": ["/assets/products/pro2_img1.jpg", "/assets/products/pro2_img2.jpg", "/assets/products/pro2_img3"]
     },
     {
       "id": 3,
       "name": "Product 3",
-      "price": 49.99,
-      "src": "/assets/products/pro3_img1.jpg"
+      "price": 899.00,
+      "src": ["/assets/products/pro3_img1.jpg", "/assets/products/pro3_img2.jpg", "/assets/products/pro3_img3"]
+    },
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 349.00,
+      "src": ["/assets/products/pro1_img1.jpg", "/assets/products/pro1_img2.jpg", "/assets/products/pro1_img3"]
     }
-    
   ]
 }
   
